@@ -1,2 +1,4 @@
 page d'accueil
 barre de navigation
+lien vers style.css
+
